@@ -13,17 +13,17 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/tobi-md/TOBI-XKILL"><img title="Author" src="https://img.shields.io/badge/tobibooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+24165506084"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/tobi-md/TOBI-V1.0.git"><img title="Author" src="https://img.shields.io/badge/tobibooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+24165506084"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
 
 TOBI-V1 is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or use as base bot, dont forget to give credits. [**TOBI-V1**]
+If you clone my repo or use as base bot, dont forget to give credits. [**TOBI-V1.0**]
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/tobi-md/TOBI-XKILL/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/tobi-md/TOBI-V1.0/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
@@ -47,7 +47,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 
 
-cd TOBI-XKILL
+cd TOBI-V1.0
 
 yarn install
    
@@ -91,20 +91,20 @@ pkg install imagemagick
 
 termux-setup-storage
 
-git clone https://github.com/tobi-md/TOBI-XKILL
+git clone https://github.com/TOBI-V1.0
 
- cd TOBI-V1
+ cd TOBI-V1.0
  
  yarn install
  
  npm start
 
-`Please TOBI-V1 is for scammers only. Don't use it to harm innocent people`
+`Please TOBI-V1.0 is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to TOBI-V1 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to TOBI-V1.0 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
@@ -115,7 +115,7 @@ Contributions to TOBI-V1 are welcome! If you have ideas for new features, improv
 
 ## License
 
-The WhatsApp Bot TOBI-V1 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot TOBI-V1.0 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
