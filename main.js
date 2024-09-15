@@ -174,13 +174,13 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         	console.log(chalk.magenta(` `))
             console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
-            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃`)}\n\n`))
+            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Jean-parker-tech`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: Jeanparker100`))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @its_jeanparker `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 22898133388`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛\n`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: tobi-md`))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @paigwe `))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 24165506084`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: papa igwé\n`))
         }
         if (
             connection === "close" &&
