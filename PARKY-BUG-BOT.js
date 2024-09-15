@@ -923,7 +923,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: '*Broadcast By Owner*',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                                thumbnailUrl: 'https://i.imgur.com/Iyz6Ghz.jpeg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1208,7 +1208,7 @@ case 'ping': {
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                            thumbnailUrl: 'https://i.imgur.com/Iyz6Ghz.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1226,9 +1226,9 @@ case 'ping': {
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `Yt Jean-parker-tech`,
-                            body: `Love from Jean Parker 🩵`,
-                            thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                            title: `papa igwé YT`,
+                            body: `Love from IGWÉ 🩵`,
+                            thumbnailUrl: 'https://i.imgur.com/Iyz6Ghz.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1242,13 +1242,13 @@ case 'ping': {
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `🌐 *_Git:_* https://github.com/Jeanparker100/PARKY-BUG-BOT\n\n🪀 *_Group:_* https://chat.whatsapp.com/L8NDXnqqDZn2uEtzsgZ8ES\n\n🪀 *_Channel:_* https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45\n\n🩵 *_Dev:_* https://Wa.me//+22898133388`,
+                    text: `🌐 *_Git:_* https://github.com/tobi-md/TOBI-V1.0\n\n🪀 *_Group:_* https://chat.whatsapp.com/L8NDXnqqDZn2uEtzsgZ8ES\n\n🪀 *_Channel:_* https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45\n\n🩵 *_Dev:_* https://Wa.me//+22898133388`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `SCRIPT OF Parky-MD is on YouTube Jean-parker-tech 🩵`,
+                            title: `SCRIPT OF tobi-md is on YouTube papa igwé YT 🩵`,
                             body: `Love You bro 🩵`,
-                            thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                            thumbnailUrl: 'https://i.imgur.com/Iyz6Ghz.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1262,7 +1262,7 @@ case 'ping': {
             case 'donasi':
                 let textnate = `*Bonjour ${pushname}*\n\n *Quelques soit comment c'est petit c'est l'intention qui compte*  \n *Flooz :* +22898133388`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: '*Don de soutien pour Jean Parker*\n\n' + textnate
+                    text: '*Don de soutien pour tobi*\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -2059,7 +2059,7 @@ case "xandroid": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "*Successfully Sent Amaterasu 👀🔥 To @" + whatsappNumber.split('@')[0] + 
-    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©", 
+    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓 ©", 
     [whatsappNumber]
   );
 }
@@ -2091,7 +2091,7 @@ case "xios": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "*Kamehameha 🌀 Sent To @" + whatsappNumber.split('@')[0] + 
-    " Using " + command + "*\n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©", 
+    " Using " + command + "*\n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓 ©", 
     [whatsappNumber]
   );
 }
@@ -2153,7 +2153,7 @@ case "xios2":
       await sleep(2000); // Adjusted sleep time for clarity
       sendViewOnceMessages(groupTarget, bugAmount);
       await sleep(2500); // Adjusted sleep time for clarity
-      replygcxeon("*Done… Gomu Gomu no red hawk 🤜🔥 Has Been Sent To The Group!\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©*");
+      replygcxeon("*Done… Gomu Gomu no red hawk 🤜🔥 Has Been Sent To The Group!\n\n> !𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓 ©*");
       XeonBotInc.groupLeave(groupTarget);
     } catch (error) {
       replygcxeon(util.format(error));
@@ -2187,7 +2187,7 @@ case "xios2":
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "*Successfully Sent Bankai -Senbonzakura kageyoshi ⚔️ To @" + whatsappNumber.split('@')[0] + 
-    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©", 
+    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓 ©", 
     [whatsappNumber]
   );
 }
@@ -2213,13 +2213,13 @@ case "xsysui": {
   if (contactInfo.length == 0) {
     return replygcxeon("*The number is not registered on WhatsApp*");
   }
-  replygcxeon("*please wait, " + command + " Rasengan 🌀 is in process...*");
+  replygcxeon("*please wait, " + command + " sperme de pablito 🌀 is in process...*");
   await sleep(2000); // Adjusted sleep time for clarity
   sendRepeatedMessages2(whatsappNumber, encodedAmount);
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "*Successfully Sent Rasengan 🌀 To @" + whatsappNumber.split('@')[0] + 
-    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*", 
+    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓.*", 
     [whatsappNumber]
   );
 }
@@ -2232,8 +2232,8 @@ break
 case 'clearchat':
 xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 break
-case 'Jeanparker':
-xeonimun('★彡[ᴄᴏᴇᴜʀ ꜱᴜʀ ᴛᴏɪ 🩵 ᴄʜᴇʀ \n ᴍᴇʀᴄɪ ᴅ,ᴜᴛɪʟɪꜱᴇʀ ᴍᴏɴ ʙᴜɢʙᴏᴛ  \n\n *ɴ,ᴏᴜʙʟɪᴇ ᴘᴀꜱ ᴅᴇ ᴛ,ᴀʙᴏɴɴᴇʀ À ᴍᴀ ᴄʜᴀÎɴᴇ ʏᴏᴜᴛᴜʙᴇ* \n _ʏᴏᴜᴛᴜʙᴇ ꜱᴇᴀʀᴄʜ ᴊᴇᴀɴ-ᴘᴀʀᴋᴇʀ-ᴛᴇᴄʜ ᴍᴇʀᴄɪ_ 🙏 😘]彡★')
+case '𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓':
+xeonimun('★彡[ᴄᴏᴇᴜʀ ꜱᴜʀ ᴛᴏɪ 🩵 ᴄʜᴇʀ \n ᴍᴇʀᴄɪ ᴅ,ᴜᴛɪʟɪꜱᴇʀ ᴍᴏɴ ʙᴜɢʙᴏᴛ  \n\n *ɴ,ᴏᴜʙʟɪᴇ ᴘᴀꜱ ᴅᴇ ᴛ,ᴀʙᴏɴɴᴇʀ À ᴍᴀ ᴄʜᴀÎɴᴇ ʏᴏᴜᴛᴜʙᴇ* \n _ʏᴏᴜᴛᴜʙᴇ ꜱᴇᴀʀᴄʜ PAPA IGWÉ YT ᴍᴇʀᴄɪ_ 🙏 😘]彡★')
 break
             case 'menu':
             case 'help':
@@ -2319,7 +2319,7 @@ break
 ┃  sᴄʀɪᴘᴛ
 ┃  ᴅᴏɴᴀᴛᴇ
 ┃  ᴏᴡɴᴇʀ
-┃  ᴊᴇᴀɴᴘᴀʀᴋᴇʀ
+┃  ton cul
 ╰═════════════════⊷
 
 ╭═══ 𝙲𝙾𝙽𝙑𝙴𝚁𝚃 🔄 ═══⊷
