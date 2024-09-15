@@ -11,14 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "24165506084"
-global.ownername = "🩵 papa igwé"
+global.ownernomer = "24104045290"
+global.ownername = "🩵 adam god"
 global.ytname = "YT: papa igwé YT"
 global.socialm = "GitHub: tobi-md"
 global.location = "Gabon, Libreville"
 
-global.ownernumber = '24165506084'  //creator number
-global.ownername = 'papa igwé' //owner name
+global.ownernumber = '24104045290'  //creator number
+global.ownername = 'adam' //owner name
 global.botname = '𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓-x🧛' //name of the bot
 
 //sticker details
