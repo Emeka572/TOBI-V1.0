@@ -112,7 +112,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             if (!XeonBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
             if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
             const m = smsg(XeonBotInc, mek, store)
-            require("./PARKY-BUG-BOT")(XeonBotInc, m, chatUpdate, store)
+            require("./TOBI-V1")(XeonBotInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
@@ -174,13 +174,13 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         	console.log(chalk.magenta(` `))
             console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
-            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃`)}\n\n`))
+            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`tobi-bug-bot`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Jean-parker-tech`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: Jeanparker100`))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @its_jeanparker `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 22898133388`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛\n`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: papa igwé YT`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: tobi-md`))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @unreal `))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 24165506084`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: papa igwe\n`))
         }
         if (
             connection === "close" &&
