@@ -1,146 +1,124 @@
-# PARKY-BUG-BOT
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<img src="https://telegra.ph/file/c2df376f2abfeca80373f.jpg"/> 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+PARKY-BUG-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+JEAN+PARKER." alt="Typing SVG" /></a>
+<h1 align="center"> 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓-X🧛 </h1>
+<p align="center">  
+  
+***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓-X🧛;WHATSAPP+BUG+BOT;CREATED+BY+𝐏𝐀𝐏𝐀+𝐈𝐆𝐖𝐄;RELEASED+05.08.24" alt="Typing SVG" /></a>
+  </p>
+
+  <p align="center">  
+  <a href="(https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j)">
+    <img alt="wasi" height="300" src="https://i.imgur.com/5yuRy4z.jpeg">
+    <h1 align="center">𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓-x🧛</h1>
+  </a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+<a href="https://github.com/tobi-md/TOBI-XKILL"><img title="Author" src="https://img.shields.io/badge/tobibooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+24165506084"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
-### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
+   
+   
 
-### 1. <a href="https://github.com/Jeanparker100/PARKY-BUG-BOT/fork"><img title="WEB" src="https://img.shields.io/badge/FORK PARKY-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
-### 2. <a href="https://parky-web-1.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
-### 3. <a href="https://replit.com/@parjjean/Parky-pair-code"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Clique ici si le pairing code 1 ne marche pas" width="90"></a>
-### 4. <a href='https://solarhosting.cc/' target="_blank"><img alt='Panel Link' src='https://img.shields.io/badge/-DEPLOYER%20SUR%20PANEL-pink?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
-### 5. <a href='https://replit.com/@parjjean/PARKY-BUG-BOT' target="_blank"><img alt='Deployer sur Replit' src='https://img.shields.io/badge/-DEPLOYER SUR REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-## 6. <a href='https://dashboard.render.com/template=https://github.com/Jeanparker100/PARKY-WEB' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOYER SUR RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
-## Pour regarder des tutoriels.
-* [![YOUTUBE](https://img.shields.io/badge/COMMENT-DEPLOYER-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jean-Parker-tech)
+TOBI-V1 is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+
+If you clone my repo or use as base bot, dont forget to give credits. [**TOBI-V1**]
+### 1. FORK THIS REPO
+
+<a href='https://github.com/tobi-md/TOBI-XKILL/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+   
 
 
-</br>
+ **2.DEPLOYMENT PROCESS**
+### DEPLOY ON PANEL
+IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY 
+    <br>
+    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
 
-#### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  [PARKY-BUG-BOT](https://github.com/Jeanparker100/PARKY-BUG-BOT) SUR UN TERMINAL 
-```
-sudo apt -y update && sudo apt -y upgrade
-```
-```
-sudo apt -y install git ffmpeg curl
-```
-```
-curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-```
-```
-sudo -E bash nodesource_setup.sh
-```
-```
-sudo apt-get install -y nodejs
-```
-```
-sudo npm install -g yarn
-```
-```
-sudo yarn global add pm2
-```
-```
-git clone https://github.com/type-your-username-here/PARKY-BUG-BOT
-```
-```
-cd PARKY-BUG-BOT 
-yarn install 
-npm start
-```
- 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# Déployement sur termux
-```
-termux-setup-storage
-```
-```
-apt update
-```
-```
-apt upgrade
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y 
-```
-```
-pkg install wget
-```
-```
-pkg install yarn
-```
-```
-git clone (copie et passe le lien du repo aue tu a fork) 
-```
-```
-cd PARKY-BUG-BOT
-```
-```
+█▓▒­░⡷⠂𝛨𝑈𝛭𝛥𝛮ᵉʳʳᵒʳ⠐⢾░▒▓█
+## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
+## Watch Tutorial videos.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j)
+
+### DEPLOYMENT ON TERMUX
+
+**Go to your termux and input this commands**
+
+
+
+
+
+cd TOBI-XKILL
+
 yarn install
-```
-```
+   
 npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-- si tu veux le bot pour  24/7 (peut ne pas fonctionner) 
-```js
-npm i -g forever && forever index.js && forever save && forever logs
-```
-<br>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<br>
-<h2 align="center"> 🛡️ Windows Cmd & Vs 🛡️ </h2>
 
-- [Télécharger ffmpeg](https://ffmpeg.org/download.html#build-windows) and set the path
-- [Télécharger wget](https://eternallybored.org/misc/wget/releases/) and set the path
-- [Télécharger Node.js](https://nodejs.org/en/download/)
-- [Download Git](https://git-scm.com/downloads)
-- [Télécharger Libwebp](https://developers.google.com/speed/webp/download)
+If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
 
-```cmd
-> git https://github.com/Jeanparker100/PARKY-BUG-BOT
-```
-```
-> cd PARKY-BUG-BOT
-```
-```
-> yarn install
-```
-```
-> npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+If you see any question while upgrading with this options with Y or n for default, = Click n for Default
 
-## ```Contacter moi```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
-<p align="center">
-<a href="https://wa.me/22898133388"><img src="https://img.shields.io/badge/Contact Parker-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@Jean-Parker-tech"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Jean-Parker-tech" /><br>
-<p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## Remerciements
 
-Un grand merci à [![DGxeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **PARKY-BUG-BOT**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
+ It will ask you for your number type it with country code +
+ It will give you a pair code go and link it to your WhatsApp 
+ After linking
+ Bot Connected ⚡
+ Enjoy🤖
+
+### REPORT ISSUES
+
+atp update
+   
+
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+ pkg install git
+
+ pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install wget
+
+pkg install imagemagick
+
+ pkg install yarn
+
+termux-setup-storage
+
+git clone https://github.com/tobi-md/TOBI-XKILL
+
+ cd TOBI-V1
+ 
+ yarn install
+ 
+ npm start
+
+`Please TOBI-V1 is for scammers only. Don't use it to harm innocent people`
+
+
+## Contributions
+
+Contributions to TOBI-V1 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+
+   thanks to these people ;
+
+   **Xeon** who made the base bot
+
+   **PRECIOUS AYOMIDE** For developing it; <br>
+
+
+## License
+
+The WhatsApp Bot TOBI-V1 is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
+
+## Developers:
+
+-PAPA IGWÉ 🧛🦠
