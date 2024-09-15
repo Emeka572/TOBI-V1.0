@@ -533,7 +533,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`𝙱𝚘𝚝 𝚎𝚗 𝚕𝚒𝚐𝚗𝚎 𝟸𝟺𝚑/𝟸𝟺 𝚎𝚝 𝟽𝚓/𝟽 𝚙𝚊𝚛 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 𝙱𝚘𝚝 𝙾𝚠𝚗𝚎𝚛 : ${ownername} 𝙿𝚘𝚞𝚛 𝚙𝚕𝚞𝚜 𝚍𝚎 𝚑𝚊𝚌𝚔𝚜, 𝚛𝚎𝚌𝚑𝚎𝚛𝚌𝚑𝚎𝚣 𝚜𝚞𝚛 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝙹𝚎𝚊𝚗-𝚙𝚊𝚛𝚔𝚎𝚛-𝚝𝚎𝚌𝚑`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`𝙱𝚘𝚝 𝚎𝚗 𝚕𝚒𝚐𝚗𝚎 𝟸𝟺𝚑/𝟸𝟺 𝚎𝚝 𝟽𝚓/𝟽 𝚙𝚊𝚛 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙱𝚘𝚝 𝙾𝚠𝚗𝚎𝚛 : ${ownername} 𝙿𝚘𝚞𝚛 𝚙𝚕𝚞𝚜 𝚍𝚎 𝚑𝚊𝚌𝚔𝚜, 𝚛𝚎𝚌𝚑𝚎𝚛𝚌𝚑𝚎𝚣 la chaîne WhatsApp`).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
