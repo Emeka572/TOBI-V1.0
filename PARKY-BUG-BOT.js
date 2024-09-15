@@ -533,7 +533,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`𝙱𝚘𝚝 𝚎𝚗 𝚕𝚒𝚐𝚗𝚎 𝟸𝟺𝚑/𝟸𝟺 𝚎𝚝 𝟽𝚓/𝟽 𝚙𝚊𝚛 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 𝙱𝚘𝚝 𝙾𝚠𝚗𝚎𝚛 : ${ownername} 𝙿𝚘𝚞𝚛 𝚙𝚕𝚞𝚜 𝚍𝚎 𝚑𝚊𝚌𝚔𝚜, 𝚛𝚎𝚌𝚑𝚎𝚛𝚌𝚑𝚎𝚣 𝚜𝚞𝚛 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝙹𝚎𝚊𝚗-𝚙𝚊𝚛𝚔𝚎𝚛-𝚝𝚎𝚌𝚑`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`𝙱𝚘𝚝 𝚎𝚗 𝚕𝚒𝚐𝚗𝚎 𝟸𝟺𝚑/𝟸𝟺 𝚎𝚝 𝟽𝚓/𝟽 𝚙𝚊𝚛 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙱𝚘𝚝 𝙾𝚠𝚗𝚎𝚛 : ${ownername} 𝙿𝚘𝚞𝚛 𝚙𝚕𝚞𝚜 𝚍𝚎 𝚑𝚊𝚌𝚔𝚜, 𝚛𝚎𝚌𝚑𝚎𝚛𝚌𝚑𝚎𝚣 𝚜𝚞𝚛 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝙹𝚎𝚊𝚗-𝚙𝚊𝚛𝚔𝚎𝚛-𝚝𝚎𝚌𝚑`).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
@@ -915,7 +915,7 @@ senddocu(buffer)
                 replygcxeon(`*Send Broadcast To ${anu.length} Group Chat, End Time ${anu.length * 1.5} second*`)
                 for (let i of anu) {
                     await sleep(1500)
-                    let a = '🩵' + `\n\n${text}\n\n` + '' + '\n\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+                    let a = '🩵' + `\n\n${text}\n\n` + '' + '\n\n\n> 𝐏𝐀𝐏𝐀 𝐈𝐆𝐖𝐄'
                     XeonBotInc.sendMessage(i, {
                         text: a,
                         contextInfo: {
@@ -923,7 +923,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: '*Broadcast By Owner*',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                                thumbnailUrl: 'https://i.imgur.com/DJTfQdJ.jpeg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1200,7 +1200,7 @@ case 'ping': {
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `*Salut ${pushname}\n Premium est payant ! \n Met ton numéro dans Premium json file! \n et dépôt à Jean parker pour l'activer on Youtube channel Jean-parker-tech*`
+                let teks = `*Salut ${pushname}\n Premium est payant ! \n Met ton numéro dans Premium json file! \n et dépôt à 𝐏𝐀𝐏𝐀+𝐈𝐆𝐖𝐄 pour l'activer on Youtube channel 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓*`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -1208,7 +1208,7 @@ case 'ping': {
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                            thumbnailUrl: 'https://i.imgur.com/DJTfQdJ.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1226,9 +1226,9 @@ case 'ping': {
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `Yt Jean-parker-tech`,
-                            body: `Love from Jean Parker 🩵`,
-                            thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                            title: `𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓`,
+                            body: `Love from 𝐏𝐀𝐏𝐀+𝐈𝐆𝐖𝐄 🩵`,
+                            thumbnailUrl: 'https://i.imgur.com/yC4gQ4K.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1242,13 +1242,13 @@ case 'ping': {
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `🌐 *_Git:_* https://github.com/Jeanparker100/PARKY-BUG-BOT\n\n🪀 *_Group:_* https://chat.whatsapp.com/L8NDXnqqDZn2uEtzsgZ8ES\n\n🪀 *_Channel:_* https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45\n\n🩵 *_Dev:_* https://Wa.me//+22898133388`,
+                    text: `🌐 *_Git:_* https://github.com/tobi-md/TOBI-V1.0\n\n🪀 *_Group:_* https://chat.whatsapp.com/KRqmK7MU5OZ8pcKoeo4CVt\n\n🪀 *_Channel:_* https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j\n\n🩵 *_Dev:_* https://Wa.me//+24165506084`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `SCRIPT OF Parky-MD is on YouTube Jean-parker-tech 🩵`,
+                            title: `SCRIPT OF WHATSAPP BUG BOT CREATED BY 𝐏𝐀𝐏𝐀 𝐈𝐆𝐖𝐄 🩵`,
                             body: `Love You bro 🩵`,
-                            thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                            thumbnailUrl: 'https://i.imgur.com/yC4gQ4K.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1260,9 +1260,9 @@ case 'ping': {
                 break
             case 'donate':
             case 'donasi':
-                let textnate = `*Bonjour ${pushname}*\n\n *Quelques soit comment c'est petit c'est l'intention qui compte*  \n *Flooz :* +22898133388`
+                let textnate = `*Bonjour ${pushname}*\n\n *Quelques soit comment c'est petit c'est l'intention qui compte moov money*  \n *Flooz :* +24165506084`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: '*Don de soutien pour Jean Parker*\n\n' + textnate
+                    text: '*Don de soutien pour 𝐏𝐀𝐏𝐀 𝐈𝐆𝐖𝐄*\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -2059,7 +2059,7 @@ case "xandroid": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "*Successfully Sent Amaterasu 👀🔥 To @" + whatsappNumber.split('@')[0] + 
-    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©", 
+    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝐏𝐀𝐏𝐀+𝐈𝐆𝐖𝐄 ©", 
     [whatsappNumber]
   );
 }
@@ -2091,7 +2091,7 @@ case "xios": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "*Kamehameha 🌀 Sent To @" + whatsappNumber.split('@')[0] + 
-    " Using " + command + "*\n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©", 
+    " Using " + command + "*\n\n*Pause 2 minutes so that the bot is not banned.*\n\n> papa igwe ©", 
     [whatsappNumber]
   );
 }
@@ -2153,7 +2153,7 @@ case "xios2":
       await sleep(2000); // Adjusted sleep time for clarity
       sendViewOnceMessages(groupTarget, bugAmount);
       await sleep(2500); // Adjusted sleep time for clarity
-      replygcxeon("*Done… Gomu Gomu no red hawk 🤜🔥 Has Been Sent To The Group!\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©*");
+      replygcxeon("*Done… Gomu Gomu no red hawk 🤜🔥 Has Been Sent To The Group!\n\n> papa igwe ©*");
       XeonBotInc.groupLeave(groupTarget);
     } catch (error) {
       replygcxeon(util.format(error));
@@ -2187,7 +2187,7 @@ case "xios2":
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "*Successfully Sent Bankai -Senbonzakura kageyoshi ⚔️ To @" + whatsappNumber.split('@')[0] + 
-    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©", 
+    " Using " + command + "* \n\n*Pause 2 minutes so that the bot is not banned.*\n\n> papa igwe ©", 
     [whatsappNumber]
   );
 }
@@ -2318,7 +2318,7 @@ break
 ┃ 🩵 sᴄʀɪᴘᴛ
 ┃ 🩵 ᴅᴏɴᴀᴛᴇ
 ┃ 🩵 ᴏᴡɴᴇʀ
-┃ 🩵 ᴊᴇᴀɴᴘᴀʀᴋᴇʀ
+┃ 🩵 xigwe
 ╰═════════════════⊷
 
 ╭═══ 𝙲𝙾𝙽𝙑𝙴𝚁𝚃 🔄 ═══⊷
@@ -2369,7 +2369,7 @@ break
 ┃ 🩵 sᴏᴜɴᴅ1 - sᴏᴜɴᴅ161
 ╰═════════════════⊷
 
-> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©`
+> 𝐓𝐎𝐁𝐈-𝐁𝐔𝐆-𝐁𝐎𝐓 ©`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -2377,7 +2377,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                                thumbnailUrl: 'https://i.imgur.com/yC4gQ4K.jpeg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2395,7 +2395,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+      thumbnailUrl: 'https://i.imgur.com/yC4gQ4K.jpeg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
